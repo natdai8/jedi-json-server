@@ -15,12 +15,12 @@
         },
         {
             "id": 2,
-            "nombre": "croquetas de cocido",
+            "nombre": "croquetas de pollo",
             "precio": "4,75"
         },
         {
             "id": 3,
-            "nombre": "croquetas de pollo",
+            "nombre": "croquetas de queso",
             "precio": "4,50"
         }
     ],
