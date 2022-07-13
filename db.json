@@ -8,20 +8,20 @@
     ],
 
     "productos": [{
-            url: "https://lavaldostana.es/3678-home_default/croquetas-de-jamon.jpg",
-            title: "Croquetas de jamón",
-            price: 5,
-            id: "44a49e38-646d-4c11-9a44-8fbecd8dd796"
+            "url": "https://lavaldostana.es/3678-home_default/croquetas-de-jamon.jpg",
+            "title": "Croquetas de jamón",
+            "price": 5,
+            "id": "44a49e38-646d-4c11-9a44-8fbecd8dd796"
         }, {
-            url: "https://www.196flavors.com/wp-content/uploads/2021/10/croquetas-de-pollo-2fp.jpg", 
-            title: "Croquetas de pollo",
-            price: 4.75,
-            id: "90900973-ec05-4c10-b0d4-cd32bae63315"
+            "url": "https://www.196flavors.com/wp-content/uploads/2021/10/croquetas-de-pollo-2fp.jpg", 
+            "title": "Croquetas de pollo",
+            "price": 4.75,
+            "id": "90900973-ec05-4c10-b0d4-cd32bae63315"
         }, {
-            url: "https://www.topgastronomico.es/wp-content/uploads/2020/10/Croquetas-de-queso-500x500.jpg",
-            title: "Croquetas de queso",
-            price: 4.50,
-            id: "f0e3862c-cdf0-4537-9fe5-2afe766b9eeb"
+            "url": "https://www.topgastronomico.es/wp-content/uploads/2020/10/Croquetas-de-queso-500x500.jpg",
+            "title": "Croquetas de queso",
+            "price": 4.50,
+            "id": "f0e3862c-cdf0-4537-9fe5-2afe766b9eeb"
         }],
 
     "compras": [
